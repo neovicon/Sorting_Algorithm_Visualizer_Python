@@ -7,7 +7,7 @@ A visualization tool for various sorting algorithms implemented in Python. See h
 
 ## Demo:
 
-![Demo Gif](_Captures/gif.gif)
+![Image](https://github.com/user-attachments/assets/c67bf625-9f86-47cd-bd9a-4dc07d8ad709)
 
 
 ## Features
@@ -34,6 +34,9 @@ A visualization tool for various sorting algorithms implemented in Python. See h
 
 ## Screenshots:l.  
 
-![Demo Gif](_Captures/sc1.png)
-![Demo Gif](_Captures/sc2.png)
-![Demo Gif](_Captures/sc3.png)
+<img width="1118" height="783" alt="Image" src="https://github.com/user-attachments/assets/bad2dc3a-9d28-4d79-867e-fd51f0834895" />
+
+<img width="1127" height="787" alt="Image" src="https://github.com/user-attachments/assets/503c834b-35f9-4c41-9c3a-5cd291fd6220" />
+
+<img width="1122" height="783" alt="Image" src="https://github.com/user-attachments/assets/6fd4810b-a22e-4e25-b7b6-8b199e0e4b71" />
+
